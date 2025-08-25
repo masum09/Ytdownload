@@ -7,8 +7,14 @@
 
 ## 🚀 Installation
 
-Termux-এ নিচের কমান্ডগুলো চালান:
+Termux-এর কমান্ড:
 
-git clone [https://github.com/masum09/Ytdownload.git
+git clone https://github.com/masum09/Ytdownload.git
+
+
+
 cd Ytdownload
+
+
+
 bash install.sh
